@@ -1,1 +1,4 @@
 Esta es la rama de desarrollador
+Esta es una nueva modificación de la rama.
+Hay que crear primero la rama y luego hacemos commit a esa rama nueva.
+En princicio la nueva rama tendrá el mismo commit que la master.
